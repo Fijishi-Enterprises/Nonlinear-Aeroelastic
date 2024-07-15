@@ -1,22 +1,7 @@
 # Simulation of High Aspect Ratio aeroplanes in Python [SHARPy]
 
-![Version badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2FImperialCollegeLondon%2Fsharpy%2Fmain%2F.version.json)
-![Build Status](https://github.com/ImperialCollegeLondon/sharpy/actions/workflows/sharpy_tests.yaml/badge.svg)
-[![Documentation Status](https://readthedocs.org/projects/ic-sharpy/badge/?version=main)](https://ic-sharpy.readthedocs.io/en/main/?badge=main)
-[![codecov](https://codecov.io/gh/ImperialCollegeLondon/sharpy/branch/main/graph/badge.svg)](https://codecov.io/gh/ImperialCollegeLondon/sharpy)
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![status](https://joss.theoj.org/papers/f7ccd562160f1a54f64a81e90f5d9af9/status.svg)](https://joss.theoj.org/papers/f7ccd562160f1a54f64a81e90f5d9af9)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3531965.svg)](https://doi.org/10.5281/zenodo.3531965)
-
 SHARPy is a nonlinear aeroelastic analysis package originally developed at the Department of Aeronautics, Imperial
-College London. It can be used for the structural, aerodynamic and aeroelastic analysis of flexible wings, aircraft and wind turbines. It is shared here under a BSD 3-Clause permissive license.
-
-![XHALE](./docs/source/_static/XHALE-render.jpg)
-
-### Contact
-
-For more information on the [research team](http://www.imperial.ac.uk/aeroelastics/software/) developing SHARPy or to get 
-in touch, [visit our homepage](http://www.imperial.ac.uk/aeroelastics).
+College London. The extended version from Fijishi can be used for the structural, aerodynamic and aeroelastic analysis of flexible wings, aircraft and wind turbines. It is shared here under a BSD 3-Clause permissive license.
 
 ## Physical Models
 
@@ -77,11 +62,6 @@ For the latest documentation, see the
 SHARPy can also be obtained from Docker Hub to avoid compilation
 and platform-dependant issues. If you are interested, make sure you check 
 the [SHARPy Docker distribution docs](https://ic-sharpy.readthedocs.io/en/latest/content/installation.html#using-sharpy-from-a-docker-container).
-
-## Contributing and Bug reports
-
-If you think you can add a useful feature to SHARPy, want to write documentation or you encounter a bug, by all means, 
-check out the [collaboration guide](https://ic-sharpy.readthedocs.io/en/latest/content/contributing.html).
 
 ## Citing SHARPy
 
